@@ -37,7 +37,7 @@
 Para isso organizações precisavam sair dos dados coletados apenas por simples bases relacionais para sistemas que manejavam e analisavam data que estava sendo generada em tempo real e que coletaria grandes volumes em uma velocidade rapida.
 
 <p align="center">
-  <img src="images/datawarehouse.png" width="100">
+  <img src="images/datawarehouse.png" width="350">
 </p>
 
 Data Warehouse foram criadas para coletar e consolidar o fluxo de dados e prover suporte geral para dados de inteligencia e analise de empresas.
@@ -56,7 +56,7 @@ O que causou que desfavoreceu as Data Warehouses, tomava muito tempo para proces
 O Data Lake permitia que dados estruturados, semi estruturados e não estruturados conseguissem conviver no mesmo ambiente simultaneamente. Dados que eram coletados em volume e velocidade necessarios para dar suporte ao ritmo de geração de dados da epoca.  
 
 <p align="center">
-  <img src="images/datalake.png" width="100">
+  <img src="images/datalake.png" width="350">
 </p>
 
 Diversos dados diferentes poderiam ser guardados lado a lado em um Data Lake, dados que eram criados de diferentes origens, sejam elas logs de web ou dados de sensores poderiam ser transmitidos para o Data Lake com facilidade, velocidade e de maneira barata em armazenamento de objetos cloud de preço baixo.
@@ -76,7 +76,7 @@ Em 2013 databricks foi fundada e em 2020 introduziu para o mundo a primeira e un
 Em 2021 os fundadores da Databricks e outros individuos cunharam o termo "Arquitetura Lakehouse" no artigo "Lakehouse: A nova geração de plataformas abertas que unificam Data Warehousing e Analise Avançada"
 
 <p align="center">
-  <img src="images/datalakehouse.png" width="100">
+  <img src="images/datalakehouse.png" width="350">
 </p>
 
 Times de empresas ficavam discronizados, usando tecnologias separadas Data Warehouses e Data Lakes causavam problemas de velocidade de entrega.
@@ -86,7 +86,7 @@ Para resolver esse problema Databricks matou a necessidade de algo unificado e s
 Combinando os beneficios de um data lake e o poder de analise e controle de um Data Warehouse. Isso criou uma fonta confiavel de dados, combinando acesso direto a IA e BI trabalharem juntos, com uma governancia de segurança unificada.
 
 <p align="center">
-  <img src="images/keydatalakehouse.png" width="100">
+  <img src="images/keydatalakehouse.png" width="350">
 </p>
 
 Agora empresas podiam guardar, refinar, analisar e acessar dados semiestruturados, estruturados ou nao estruturados em um unico lugar em quanto oferecia suporte a uma grande quantidade de trabalhos de data science, machine learning e analise.
@@ -98,7 +98,7 @@ Também oferencendo suporte a end-to-end streaming, para relatorios em tempo rea
 Para acompanhar as IA's generativas, que avançam e se desenvolvem em velocidades alarmantes Databricks trouxe as duas technologias, Data Lakehouse e Generative IA, para formar a Data Intelligence Platform(Para democratizar data e IA por toda sua organização).
 
 <p align="center">
-  <img src="images/databricksDIP.png" width="100">
+  <img src="images/databricksDIP.png" width="350">
 </p>
 
 ---
@@ -133,13 +133,13 @@ Para fazer tudo isso acontecer, existem muito poucos individuos no mercado de tr
 #### É justamente ai aonde Data Lake entra.
 
 <p align="center">
-  <img src="images/dataecosystem.png" width="100">
+  <img src="images/dataecosystem.png" width="350">
 </p>
 
 Tendo tudo como uma grande ecossistema e se ajudando, a plataforma de tecnologia que usa Data Lake se torna uma recurso essencial para qualquer empresa quer usar IA ou manipular dados.
 
 <p align="center">
-  <img src="images/databricksDIP2.png" width="100">
+  <img src="images/databricksDIP2.png" width="350">
 </p>
 
 #### Open Data Lake
@@ -290,7 +290,7 @@ Logo, você consegue fazer perguntas em SQL ou até em linguagem natural para an
 
 #### Porém também existe uma ferramenta nova que pode usar toda os dados e inteligencia de dados para elevalos um nivel maior
 <p align="center">
-  <img src="images/projectgenie.png" width="100">
+  <img src="images/projectgenie.png" width="350">
 </p>
 
 Similar ao copilot, ele o auxilia para conseguir respostas corretas. 
