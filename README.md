@@ -1,5 +1,7 @@
 # Databricks e seus Fundamentos
 
+Nesse repositorio eu exploro os conhecimentos em Databricks e preparo algumas perguntas que englobam seus fundamentos no final.
+
 ## Tópicos
 
 ### 1° Historia das plataformas de manejamento de dados.
