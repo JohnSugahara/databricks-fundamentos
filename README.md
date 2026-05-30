@@ -546,7 +546,7 @@ Ela também possui recursos de IA e Machine Learning como MLflow, Mosaic AI, tre
 Na prática, empresas usam Databricks para engenharia de dados, dashboards, analytics, processamento de Big Data, streaming, Data Science, Machine Learning e IA corporativa em larga escala.
 
 <p align="center">
-  <img src="images/IAdatawarehoussing.png" width="500">
+  <img src="images/IAdatawarehousing.png" width="500">
 </p>
 
 Data warehousing sem IA é lento. Porém, com IA ocorre um grande aumento em performance, tornando-a essencial para Autotuning, Intelligent Workload Management e Previsão de I/O.
